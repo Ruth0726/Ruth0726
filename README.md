@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on BI Analytics Projects
 - 🤔 I’m looking for help with Networking
-- 💬 Ask me about German Scheperd
+- 💬 Ask me about German Shepherd Breed
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can play guitar
+- ⚡ Fun fact: I can play Flute and Guitar
