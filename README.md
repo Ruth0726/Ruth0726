@@ -1,10 +1,10 @@
-## Hi👋 I'm Ruth
+## Hi, I'm Ruth Timas 👋 
 
-- 🔭 I’m currently working on BI Analytics Skills
-- 🌱 I’m currently learning Python, and Generative AI
-- 👯 I’m looking to collaborate on BI Analytics Projects
-- 🤔 I’m looking for help with Networking
-- 💬 Ask me about Anything... I am a Researcher! 
-- 📫 How to reach me: https://www.linkedin.com/in/ruthtimas
+- 🔍 **Business Intelligence Analyst | Aspiring Data Scientist** 
+- 🔭 I’m currently working on: Real-world analytics projects with actionable insights  
+- 🌱 I’m currently learning: Python | Generative AI | Advanced BI Tools
+- 🤝 Open to: Collaborations in BI Analytics, mentorship, and networking  
+- 🎓 Background: Researcher | MBA | BSBA | HR specialization (university program)   
+- 📫 How to reach me on [LinkedIn]: (https://www.linkedin.com/in/ruthtimas)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can play Flute and Guitar
+- ⚡ Fun fact: I can play Flute and Guitar!
